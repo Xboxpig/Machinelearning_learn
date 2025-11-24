@@ -18,7 +18,7 @@ target = data['class'].values
 # 在原数据中 预先定义了class(级别) 现在导入成为机器学习的答案
 
 X_train, X_test, y_train, y_test = train_test_split(feature, target, test_size=0.3, random_state=50)
-#在train_test_split中,输入处理为 pandas类型的数据喂入分割函数 并且指定测试集大小 随机状态为 50 (可复现?不是很懂)
+#在train_test_split中,输入处理为 pandas类型的数据喂入分割函数 并且指定测试集大小 随机数种子为 50 (可复现--种子相同)
 
 X_train.shape, X_test.shape, y_train.shape, y_test.shape
 #.shape用来描述在np内部数据的结构 这行命令帮我们预览了 这四个数据集的几何结构
