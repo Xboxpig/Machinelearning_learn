@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "K-聚类分析演示.md",
+                "file": "常用聚类分析/K-聚类分析演示.md",
                 "mode": "source",
                 "source": false
               },
@@ -271,8 +271,10 @@
   },
   "active": "7de10022bd5a2dc6",
   "lastOpenFiles": [
+    "常用聚类分析/src/Pasted image 20251125145145.png",
+    "常用聚类分析/src/Pasted image 20251125145009.png",
     "常用聚类分析/K 值的选择.md",
-    "K-聚类分析演示.md",
+    "常用聚类分析/K-聚类分析演示.md",
     "常用聚类分析/README.md",
     "常用聚类分析/聚类意义.md",
     "常用聚类分析/K-均值聚类.md",
@@ -292,7 +294,6 @@
     "用所选项目新建的文件夹/src/Pasted image 20251124144656.png",
     "用所选项目新建的文件夹/src/Pasted image 20251124131246.png",
     "用所选项目新建的文件夹/src/Pasted image 20251124110130.png",
-    "用所选项目新建的文件夹/src/Pasted image 20251124110133.png",
     "用所选项目新建的文件夹/监督学习 KNN.md",
     "用所选项目新建的文件夹/决策树和随机森林.md",
     "用所选项目新建的文件夹/人工神经网络 - 初见.md",
