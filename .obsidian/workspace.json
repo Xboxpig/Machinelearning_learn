@@ -121,12 +121,14 @@
             "id": "8587e4b16e7f94a7",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "常用聚类分析/src/Pasted image 20251124163747.png"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251124163747"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ],
@@ -293,22 +295,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8587e4b16e7f94a7",
+  "active": "41578e89058201e6",
   "lastOpenFiles": [
-    "常用聚类分析/src/Pasted image 20251124204331.png",
+    "常用聚类分析/README.md",
+    "常用聚类分析/K-均值聚类.md",
+    "常用聚类分析/K 值的选择.md",
+    "常用聚类分析/K-聚类分析演示.md",
     "常用聚类分析/src/Pasted image 20251124163747.png",
+    "常用聚类分析/src/Pasted image 20251124204331.png",
     "常用聚类分析/src/Pasted image 20251124204350.png",
     "常用聚类分析/src/Pasted image 20251124204405.png",
     "常用聚类分析/src/Pasted image 20251125150426.png",
     "常用聚类分析/src/Pasted image 20251125150431.png",
     "常用聚类分析/其他聚类算法.md",
-    "常用聚类分析/K-聚类分析演示.md",
     "常用聚类分析/src/Pasted image 20251125145145.png",
     "常用聚类分析/src/Pasted image 20251125145009.png",
-    "常用聚类分析/K 值的选择.md",
-    "常用聚类分析/README.md",
     "常用聚类分析/聚类意义.md",
-    "常用聚类分析/K-均值聚类.md",
     "常用聚类分析/src/Pasted image 20251124163233.png",
     "未命名",
     "常用聚类分析/src/Pasted image 20251124162434.png",
@@ -318,12 +320,12 @@
     "常用聚类分析",
     "未命名文件夹",
     "监督学习 KNN.md",
-    "用所选项目新建的文件夹/监督学习 KNN.md",
-    "用所选项目新建的文件夹/决策树和随机森林.md",
-    "用所选项目新建的文件夹/人工神经网络 - 初见.md",
-    "用所选项目新建的文件夹/src",
-    "用所选项目新建的文件夹/Python 数据容器.md",
-    "用所选项目新建的文件夹",
+    "常用分类预测算法/监督学习 KNN.md",
+    "常用分类预测算法/决策树和随机森林.md",
+    "常用分类预测算法/人工神经网络 - 初见.md",
+    "常用分类预测算法/src",
+    "常用分类预测算法/Python 数据容器.md",
+    "常用分类预测算法",
     "Python 数据容器.md",
     "人工神经网络 - 初见.md",
     "决策树和随机森林.md",
