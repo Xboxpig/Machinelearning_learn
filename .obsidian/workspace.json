@@ -109,18 +109,28 @@
             "id": "72e08503587c2c0c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "常用聚类分析/其他聚类算法.md",
-                "mode": "source",
-                "source": false
+                "file": "常用聚类分析/src/Pasted image 20251125150431.png"
               },
-              "icon": "lucide-file",
-              "title": "其他聚类算法"
+              "icon": "lucide-image",
+              "title": "Pasted image 20251125150431"
+            }
+          },
+          {
+            "id": "8587e4b16e7f94a7",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "常用聚类分析/src/Pasted image 20251124163747.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20251124163747"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -283,20 +293,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "41578e89058201e6",
+  "active": "8587e4b16e7f94a7",
   "lastOpenFiles": [
-    "常用聚类分析/K-聚类分析演示.md",
+    "常用聚类分析/src/Pasted image 20251124204331.png",
+    "常用聚类分析/src/Pasted image 20251124163747.png",
+    "常用聚类分析/src/Pasted image 20251124204350.png",
+    "常用聚类分析/src/Pasted image 20251124204405.png",
+    "常用聚类分析/src/Pasted image 20251125150426.png",
+    "常用聚类分析/src/Pasted image 20251125150431.png",
     "常用聚类分析/其他聚类算法.md",
+    "常用聚类分析/K-聚类分析演示.md",
     "常用聚类分析/src/Pasted image 20251125145145.png",
     "常用聚类分析/src/Pasted image 20251125145009.png",
     "常用聚类分析/K 值的选择.md",
     "常用聚类分析/README.md",
     "常用聚类分析/聚类意义.md",
     "常用聚类分析/K-均值聚类.md",
-    "Pasted image 20251124204405.png",
-    "Pasted image 20251124204350.png",
-    "Pasted image 20251124204331.png",
-    "Pasted image 20251124163747.png",
     "常用聚类分析/src/Pasted image 20251124163233.png",
     "未命名",
     "常用聚类分析/src/Pasted image 20251124162434.png",
@@ -306,8 +318,6 @@
     "常用聚类分析",
     "未命名文件夹",
     "监督学习 KNN.md",
-    "用所选项目新建的文件夹/src/Pasted image 20251124144656.png",
-    "用所选项目新建的文件夹/src/Pasted image 20251124131246.png",
     "用所选项目新建的文件夹/监督学习 KNN.md",
     "用所选项目新建的文件夹/决策树和随机森林.md",
     "用所选项目新建的文件夹/人工神经网络 - 初见.md",
